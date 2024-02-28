@@ -1,0 +1,3 @@
+media:
+  input: files/media
+  output: /files/media
